@@ -9,7 +9,7 @@
 - Authorization: Bearer `<JWT_TOKEN>`
 - Content-Type: `<application/json>`
 
-**Body Parameters**
+**Body**
 ```json
 {
     "data": {
